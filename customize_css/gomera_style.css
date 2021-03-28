@@ -1,0 +1,25 @@
+.style-sidebar-color {
+    background-color: #07324b;
+}
+
+.style-sidebar-color a, .style-sidebar-color p, .style-sidebar-color i {
+    color: #FFF;
+}
+
+.style-bb-light-blue {
+    border-bottom: solid 1px #3a6680;
+}
+
+.style-brand-name {
+    font-size: 1.1rem;
+    margin-left: 10px;
+}
+
+.nav-link.active, .nav-link:hover {
+    color: #FFF !important;
+    background-color: #3a6680 !important;
+}
+
+.style-chart-container {
+    margin: 0 100px;
+}
